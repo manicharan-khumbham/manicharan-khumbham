@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manicharan Khumbham</h1>
 <h3 align="center">Full Stack Developer | AI Enthusiast | CSE Undergraduate from India</h3>
-
+  
 ---
 
 ### 🚀 About Me
